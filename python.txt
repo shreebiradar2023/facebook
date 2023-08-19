@@ -1,4 +1,8 @@
 Hello!!
 This is a python file..
+<<<<<<< HEAD
 Updated...
+=======
+Updated..
+>>>>>>> develpoment
 
